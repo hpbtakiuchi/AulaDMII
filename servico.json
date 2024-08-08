@@ -1,7 +1,5 @@
-[
-    {
-       "nome": "Hugo",
-       "id": 1,
-       "email": "hugo@example.com"
-    }
-]
+{
+    "nome": "Hugo",
+    "id": 1,
+    "email": "hugo@example.com"
+}
